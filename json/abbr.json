@@ -1,0 +1,14 @@
+{
+	"tag": "<abbr></abbr>",
+	"name": "abbreviation tag",
+	"paired-tag": true,
+	"block-level": false,
+	"type": "Formatting",
+	"added-in-html5": false,
+	"deprecated-in-html5": false,
+	"description": "Represents an abbreviation or acronym, providing a tooltip with the full form.",
+	"font-size": "Browser-dependent, typically inherits from the surrounding text.",
+	"font-family": " Browser-dependent, typically inherits from the surrounding text.",
+	"font-weight": "Browser-dependent, typically inherits from the surrounding text.",
+	"examples": [{}]
+}

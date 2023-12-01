@@ -1,0 +1,14 @@
+{
+	"tag": "<a></a>",
+	"name": "anchor tag",
+	"paired-tag": true,
+	"block-level": false,
+	"type": "Inline, used for creating hyperlinks",
+	"added-in-html5": false,
+	"deprecated-in-html5": false,
+	"description": "Defines a hyperlink, allowing navigation to another web page or resource.",
+	"font-size": "Browser-dependent, typically inherits from the surrounding text.",
+	"font-family": "Browser-dependent, typically inherits from the surrounding text.",
+	"font-weight": "Browser-dependent, typically inherits from the surrounding ",
+	"examples": [{}]
+}
