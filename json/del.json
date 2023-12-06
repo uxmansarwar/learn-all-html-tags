@@ -1,0 +1,14 @@
+{
+	"tag": "<del></del>",
+	"name": "del tag",
+	"paired-tag": true,
+	"block-level": false,
+	"type": "Text-level semantics, Inline tag",
+	"added-in-html5": true,
+	"deprecated-in-html5": false,
+	"description": "Represents deleted or removed text within a document",
+	"font-size": "Browser-dependent, typically inherits from surrounding text",
+	"font-family": "Browser-dependent, typically inherits from surrounding text",
+	"font-weight": "Browser-dependent, typically inherits from surrounding text",
+	"examples": [{}]
+}

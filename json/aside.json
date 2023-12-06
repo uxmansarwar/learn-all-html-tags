@@ -1,0 +1,14 @@
+{
+	"tag": "<aside></aside>",
+	"name": "aside tag",
+	"paired-tag": true,
+	"block-level": true,
+	"type": "Sectioning content tag",
+	"added-in-html5": true,
+	"deprecated-in-html5": false,
+	"description": " Represents content that is tangentially related to the content around it, such as sidebars or pull quotes",
+	"font-size": " Browser default",
+	"font-family": " Browser default",
+	"font-weight": " Browser default",
+	"examples": [{}]
+}

@@ -1,0 +1,14 @@
+{
+	"tag": "<dfn></dfn>",
+	"name": "dfn tag",
+	"paired-tag": true,
+	"block-level": false,
+	"type": "Text-level semantics, Inline tag",
+	"added-in-html5": true,
+	"deprecated-in-html5": false,
+	"description": "Represents the defining instance of a term within a document, typically used for terms in a glossary or for indicating the first occurrence of a defined term",
+	"font-size": "Browser-dependent, typically inherits from surrounding text",
+	"font-family": "Browser-dependent, typically inherits from surrounding text",
+	"font-weight": "Browser-dependent, typically inherits from surrounding text",
+	"examples": [{}]
+}

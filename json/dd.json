@@ -1,0 +1,14 @@
+{
+	"tag": "<dd></dd>",
+	"name": "dd tag",
+	"paired-tag": true,
+	"block-level": false,
+	"type": "Structure-related tag, Text-level semantics",
+	"added-in-html5": true,
+	"deprecated-in-html5": false,
+	"description": "Defines the description or value part in a definition list (<dl>)",
+	"font-size": "Browser-dependent, typically inherits from surrounding text",
+	"font-family": "Browser-dependent, typically inherits from surrounding text",
+	"font-weight": " Browser-dependent, typically inherits from surrounding text",
+	"examples": [{}]
+}

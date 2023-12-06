@@ -1,0 +1,14 @@
+{
+	"tag": "<body></body>",
+	"name": "body tag",
+	"paired-tag": true,
+	"block-level": true,
+	"type": "Sectioning content tag",
+	"added-in-html5": false,
+	"deprecated-in-html5": false,
+	"description": "Represents the content of an HTML document, including text, images, links, scripts, and more",
+	"font-size": "Browser default",
+	"font-family": "Browser default",
+	"font-weight": "Browser default",
+	"examples": [{}]
+}

@@ -1,0 +1,14 @@
+{
+	"tag": "<code></code>",
+	"name": "code tag",
+	"paired-tag": true,
+	"block-level": false,
+	"type": "Inline tag, Text-level semantics",
+	"added-in-html5": true,
+	"deprecated-in-html5": false,
+	"description": "Defines a piece of computer code",
+	"font-size": "Browser-dependent, typically monospaced",
+	"font-family": "typically monospaced",
+	"font-weight": "typically normal",
+	"examples": [{}]
+}

@@ -1,0 +1,14 @@
+{
+	"tag": "<caption></caption>",
+	"name": "caption tag",
+	"paired-tag": true,
+	"block-level": true,
+	"type": "Table content tag",
+	"added-in-html5": true,
+	"deprecated-in-html5": false,
+	"description": " Represents the title or caption of a table, providing a brief description of its content",
+	"font-size": "Browser default",
+	"font-family": "Browser default",
+	"font-weight": "Browser default",
+	"examples": [{}]
+}

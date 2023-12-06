@@ -1,0 +1,14 @@
+{
+	"tag": "<b></b>",
+	"name": "bold tag",
+	"paired-tag": true,
+	"block-level": false,
+	"type": "Text formatting tag",
+	"added-in-html5": false,
+	"deprecated-in-html5": false,
+	"description": "Represents text that should be stylistically offset without conveying any extra importance, typically rendered as bold",
+	"font-size": "Browser default",
+	"font-family": "Browser default",
+	"font-weight": "Browser default",
+	"examples": [{}]
+}

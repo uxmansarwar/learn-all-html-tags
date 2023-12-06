@@ -1,0 +1,14 @@
+{
+	"tag": "<br>",
+	"name": "line break tag",
+	"paired-tag": false,
+	"block-level": false,
+	"type": "Text semantics tag",
+	"added-in-html5": true,
+	"deprecated-in-html5": false,
+	"description": "Represents a line break within text, causing the content following the tag to appear on a new line",
+	"font-size": "Browser default",
+	"font-family": "Browser default",
+	"font-weight": "Browser default",
+	"examples": [{}]
+}

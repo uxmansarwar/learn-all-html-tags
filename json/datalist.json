@@ -1,0 +1,14 @@
+{
+	"tag": "<datalist></datalist>",
+	"name": "datalist tag",
+	"paired-tag": true,
+	"block-level": false,
+	"type": " Form-related tag, Interactive content",
+	"added-in-html5": true,
+	"deprecated-in-html5": false,
+	"description": "Contains a set of predefined options for input controls, often used with <input> elements of type text",
+	"font-size": "Not applicable (primarily used for form interaction)",
+	"font-family": "Not applicable",
+	"font-weight": "Not applicable",
+	"examples": [{}]
+}

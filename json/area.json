@@ -1,0 +1,14 @@
+{
+	"tag": "<area>",
+	"name": "area tag",
+	"paired-tag": false,
+	"block-level": false,
+	"type": "Image map area tag",
+	"added-in-html5": false,
+	"deprecated-in-html5": false,
+	"description": "Defines an area inside an image map, typically used with the <map> element.",
+	"font-size": "default font size",
+	"font-family": " default font family",
+	"font-weight": "default font-weight",
+	"examples": [{}]
+}

@@ -1,0 +1,14 @@
+{
+	"tag": "<base>",
+	"name": "base tag",
+	"paired-tag": false,
+	"block-level": false,
+	"type": "Meta-information tag",
+	"added-in-html5": true,
+	"deprecated-in-html5": false,
+	"description": "Specifies the base URL/target for all relative URLs in the document, often placed within the <head> element",
+	"font-size": "Browser default",
+	"font-family": "Browser default",
+	"font-weight": "Browser default",
+	"examples": [{}]
+}

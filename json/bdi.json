@@ -1,0 +1,14 @@
+{
+	"tag": "<bdi></bdi>",
+	"name": "Bi-Directional Isolation tag",
+	"paired-tag": true,
+	"block-level": false,
+	"type": "Text semantics tag",
+	"added-in-html5": true,
+	"deprecated-in-html5": false,
+	"description": "Isolates a span of text that might be formatted in a different direction from other text outside it, often used in internationalization",
+	"font-size": "Browser default",
+	"font-family": "Browser default",
+	"font-weight": "Browser default",
+	"examples": [{}]
+}

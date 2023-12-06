@@ -1,0 +1,14 @@
+{
+	"tag": "<col></col>",
+	"name": "col tag",
+	"paired-tag": false
+	"block-level": false,
+	"type": "Table tag, Table column-related",
+	"added-in-html5": true,
+	"deprecated-in-html5": false,
+	"description": " Defines properties for a column within a table",
+	"font-size": "Not applicable",
+	"font-family": "Not applicable",
+	"font-weight": "Not applicable",
+	"examples": [{}]
+}

@@ -1,0 +1,14 @@
+{
+	"tag": "<canvas></canvas>",
+	"name": "canvas tag",
+	"paired-tag": true,
+	"block-level": true,
+	"type": "Script-supporting tag",
+	"added-in-html5": true,
+	"deprecated-in-html5": false,
+	"description": "Provides an area on the page for rendering graphics using JavaScript, allowing for dynamic and interactive visual elements",
+	"font-size": "Browser default",
+	"font-family": "Browser default",
+	"font-weight": "Browser default",
+	"examples": [{}]
+}

@@ -1,0 +1,14 @@
+{
+	"tag": "<audio></audio>",
+	"name": "audio tag",
+	"paired-tag": true,
+	"block-level": true,
+	"type": "Multimedia tag",
+	"added-in-html5": true,
+	"deprecated-in-html5": false,
+	"description": "Embeds sound content in the document, allowing the inclusion of audio files",
+	"font-size": "Browser default",
+	"font-family": "Browser default",
+	"font-weight": "Browser default",
+	"examples": [{}]
+}

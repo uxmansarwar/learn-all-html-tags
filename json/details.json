@@ -1,0 +1,14 @@
+{
+	"tag": "<details></details>",
+	"name": "details tag",
+	"paired-tag": true,
+	"block-level": false,
+	"type": "Interactive content, Form-related tag",
+	"added-in-html5": true,
+	"deprecated-in-html5": false,
+	"description": "Defines a disclosure widget from which the user can obtain additional information or controls",
+	"font-size": "Browser-dependent, typically inherits from surrounding text",
+	"font-family": "Browser-dependent, typically inherits from surrounding text",
+	"font-weight": "Browser-dependent, typically inherits from surrounding text",
+	"examples": [{}]
+}
