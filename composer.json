@@ -1,0 +1,12 @@
+{
+    "name": "uxmansarwar/learn-all-html-tags",
+    "description": "testing",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "uxmansarwar"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
